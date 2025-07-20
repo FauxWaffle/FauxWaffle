@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Orrin and I do a little bit of everything. Currently I am focusing on learning AI engineering and also building AI Scalable Solutions from a leadership role.
+My name is Orrin and I do a little bit of everything. Currently I am focusing on learning AI engineering and also building AI Scalable Solutions from a leadership perspective.
 <!--
 **FauxWaffle/FauxWaffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
